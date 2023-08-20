@@ -1,6 +1,6 @@
 # Jeu JavaScript avec POO
 
-![Capture d'écran du jeu](Screen.png)
+![Capture d'écran du jeu](./Screen.png)
 
 Il s'agit d'un jeu JavaScript simple construit en utilisant les principes de la Programmation Orientée Objet (POO). Le jeu consiste à permettre au joueur de tirer des projectiles sur des ennemis, d'accumuler des points et de gérer les collisions.
 
